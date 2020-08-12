@@ -9,3 +9,5 @@ This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base
 02-08-2020  V1.0 Initial version.
 
 09-08-2020  v1.1 Added a time limit based on initial feedback
+
+12-08-2020  v1.2 Corrected double spawn bug based on feedback
