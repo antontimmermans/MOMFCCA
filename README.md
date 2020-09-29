@@ -13,3 +13,5 @@ This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base
 12-08-2020  v1.2 Corrected double spawn bug based on feedback
 
 28-09-2020  v1.3 Added English Voice over from Stephen Weese # and Spanish translation by Vidimus
+
+29-09-2020  v1.3b small text adjustments in Intro, fixed sedatives image when handing out item
