@@ -17,3 +17,5 @@ This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base
 29-09-2020  v1.3b small text adjustments in Intro, fixed sedatives image when handing out item
 
 29-09-2020  v1.3c Polish translation added by Litas
+
+01-11-2020  v1.3d Russian translation added by AVAvovan #3
