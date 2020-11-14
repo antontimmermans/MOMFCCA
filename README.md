@@ -23,3 +23,5 @@ This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base
 03-11-2020  v1.3e Improved Polish translation added by Litas #4
 
 06-11-2020  v1.3f Added Spanish Audio files by Noviembre Nocturno & Onh Doctor
+
+14-11-2020  v1.3g Updated Spanish translation (Vidimus)
