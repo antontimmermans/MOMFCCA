@@ -25,3 +25,5 @@ This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base
 06-11-2020  v1.3f Added Spanish Audio files by Noviembre Nocturno & Onh Doctor
 
 14-11-2020  v1.3g Updated Spanish translation (Vidimus)
+
+27-11-2020  v1.4 Updated for Valkyrie 2.5.0 using BeforeMonsterActivation
