@@ -35,3 +35,5 @@ This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base
 15-10-2021  v1.4c Added Portuguese translation by Bola
 
 15-10-2021  v1.4d changed Portuguese translation credentials to MoM Group on request of Bola
+
+05-11-2021  v1.4e Updated Portuguese translation, fixes by Bola
