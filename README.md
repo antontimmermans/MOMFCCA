@@ -1,7 +1,7 @@
 # MOMFFCA
-Mansions of Mandness 2nd edition - scenario - Five Crimes at Crimson Alley
+Mansions of Madness 2nd edition - scenario - Five Crimes at Crimson Alley
 
-This is the scenario "Disturbance at the Docks" created by Five Crimes at Crimson Alley.
+This is the scenario "Five Crimes at Crimson Alley" created by Anton Timmermans.
 
 This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base game. Expansions "1st edition or (Recurring Nightmares and Suppressed Memories), Streets of Arkham, Sanctum of Twilight and Path of the Serpent" add a little variation.
 
@@ -37,3 +37,5 @@ This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base
 15-10-2021  v1.4d changed Portuguese translation credentials to MoM Group on request of Bola
 
 05-11-2021  v1.4e Updated Portuguese translation, fixes by Bola
+
+21-02-2022  v1.4f Added French translation by facrax
