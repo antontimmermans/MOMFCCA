@@ -41,3 +41,5 @@ This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base
 21-02-2022  v1.4f Added French translation by facrax
 
 26-02-2022  v1.4g Updated French translation by facrax, minor text formatting corrections
+
+06-05-2022  v1.4h Updated French translation by facrax, updates after feedback
