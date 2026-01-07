@@ -51,3 +51,5 @@ This 2-4 player scenario can be played with Mansions of Madness 2nd edition Base
 15-12-2023  v1.4k Added MinCam and MaxCam Settings to limit camera movement to play board
 
 10-03-2024  v1.4l Added Itallian translation by Riccardo Spadini (Rychard)
+
+07-01-2026  v1.42 Added Chinese translation by Jason Wu (pfjasonwu) #5
